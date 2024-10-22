@@ -3,51 +3,52 @@
       "id": "001",
       "cover": "https://i.ibb.co.com/jfdMtDF/master-unknown-Rj2-VDuf-Cicg-unsplash.jpg",
       "title": "The Quantum Leap",
-      "author": "A. Taylor",
+      "author_img": "https://i.ibb.co.com/G3GGx3m/boy1.png",
       "author_name": "Alex Taylor",
       "posted_date": "2023-05-10",
       "reading_time": "5 min",
-      "hashtag": "#ScienceFiction #QuantumPhysics"
+      "hashtag": ["ScienceFiction" ,     
+      "QuantumPhysics"]
     },
     {
       "id": "002",
-      "cover": "https://i.ibb.co.com/jfdMtDF/master-unknown-Rj2-VDuf-Cicg-unsplash.jpg",
+      "cover": "https://i.ibb.co.com/5WHFL0x/katie-currier-inl-BX7-K8bz-A-unsplash.jpg",
       "title": "Beneath the Stars",
-      "author": "J. Harper",
+      "author_img": "https://i.ibb.co.com/G3GGx3m/boy1.png",
       "author_name": "Jamie Harper",
       "posted_date": "2022-11-20",
       "reading_time": "8 min",
-      "hashtag": "#Romance #Stargazing"
+      "hashtag": ["Romance" ,"Stargazing"]
     },
     {
       "id": "003",
       "cover": "https://i.ibb.co.com/jfdMtDF/master-unknown-Rj2-VDuf-Cicg-unsplash.jpg",
       "title": "The Silent Whispers",
-      "author": "M. Evans",
+      "author_img": "https://i.ibb.co.com/G3GGx3m/boy1.png",
       "author_name": "Maria Evans",
       "posted_date": "2024-01-15",
       "reading_time": "6 min",
-      "hashtag": "#Mystery #Thriller"
+      "hashtag": ["Mystery", "Thriller"]
     },
     {
       "id": "004",
-      "cover": "https://i.ibb.co.com/jfdMtDF/master-unknown-Rj2-VDuf-Cicg-unsplash.jpg",
+      "cover": "https://i.ibb.co.com/5WHFL0x/katie-currier-inl-BX7-K8bz-A-unsplash.jpg",
       "title": "Echoes of Time",
-      "author": "R. Lewis",
+      "author_img": "https://i.ibb.co.com/G3GGx3m/boy1.png",
       "author_name": "Ryan Lewis",
       "posted_date": "2023-09-05",
       "reading_time": "7 min",
-      "hashtag": "#HistoricalFiction #TimeTravel"
+      "hashtag": ["HistoricalFiction", "TimeTravel"]
     },
     {
       "id": "005",
       "cover": "https://i.ibb.co.com/jfdMtDF/master-unknown-Rj2-VDuf-Cicg-unsplash.jpg",
-      "title": "Digital Dreams",
-      "author": "S. Kim",
+      "title": "https://i.ibb.co.com/G3GGx3m/boy1.png",
+      "author_img": "S. Kim",
       "author_name": "Sara Kim",
       "posted_date": "2023-03-18",
       "reading_time": "4 min",
-      "hashtag": "#Tech #Futurism"
+      "hashtag": ["HistoricalFiction", "TimeTravel"]
     }
   ]
   
